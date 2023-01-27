@@ -1,5 +1,6 @@
 #include <stdio.h>
 // Program to print a martrix of order entered by user.
+//Anmol Purwar
 int main()
 {
     int m, n;
