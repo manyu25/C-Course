@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "RelationalOp.C": "cpp",
+        "stdio.h": "c"
+    }
+}
