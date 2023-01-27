@@ -6,6 +6,8 @@ int main() {
     float b;
     a=34;
     b=6.34;
+    // comment
+    
 
     printf("a+b=%f\n",a+b);
     printf("a-b=%f\n",a-b);
