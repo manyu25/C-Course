@@ -3,7 +3,7 @@
 int main()
 {
     int n;
-    printf("Enter no. of students:\n");
+    printf("Enter no. of students:\n");//heyy
     scanf("%d", &n);
 
     printf("Total no. of students is %d.\n", n);
